@@ -32,17 +32,17 @@
     "bcryptjs": "^2.4.3",
     "bson": "^5.4.0",
     "connect-mongo": "^5.1.0",
-    "cypress": "^12.17.4",
+    "cypress": "^14.4.0",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.18",
     "express-session": "^1.17.3",
     "formik": "^2.4.3",
     "mongodb": "^6.14.2",
-    "next": "13.4.18",
+    "next": "^13.5.11",
     "next-connect": "^0.13.0",
     "next-session": "^4.0.5",
     "nodemailer": "^6.9.4",
-    "passport": "^0.5.3",
+    "passport": "^0.7.0",
     "passport-local": "^1.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -52,5 +52,8 @@
     "typescript": "5.1.6",
     "zod": "^3.22.1",
     "zod-formik-adapter": "^1.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
   }
 }
